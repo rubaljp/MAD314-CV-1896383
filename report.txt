@@ -1,0 +1,15 @@
+1.First of all I clone my repository by using the command $ git clone https://github.com/rubaljp/MAD314-CV-1896383
+2.Then I clone the repository ($ git clone https://github.com/richbighouse/mad-314-clone-exercise) to make sure it is on the pc... As it was previously cloned in the last class.
+3.Then I use ls to see all the directories.
+4.Then I copy the Instructions.txt file from mad-314-clone-exercise to MAD314-CV-1896383.
+5.Then I use the cd .. command to go bact to parent directory.
+6.Then again I use the (cd mad-314-clone-exercise/ MAD314-CV-1896383/) to go to my repository.
+7.Then I use the git add instructions.txt to add the file in my git repository.	
+8.Then I use git commit and vi editor open and I do a little change then save it and exit vi editor by pressing shift zz		
+9.Then I create new file report.txt in my depository.	
+10.Then I edit this file with all the above text.	
+11.Then I use git status command to see if it is modified
+
+
+ 
+
